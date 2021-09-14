@@ -1,0 +1,114 @@
+body {
+  background-color: red;
+}
+
+h1 {
+  color: seashell;
+}
+
+p {
+  color: seashell;
+}
+
+a {
+  color: seashell;
+}
+
+.pg2 {
+  background-image: url(asset/ShallowIndolentAndeancat-size_restricted.gif);
+  background-size: cover;
+}
+
+.goodcitizen {
+  text-align: center;
+}
+
+.fg {
+  opacity: 0;
+}
+
+.fg:hover {
+  opacity: 1;
+}
+
+.poverty1 {
+  background-image: url(asset/22SUBSHIPLER-superJumbo-v2.jpg);
+  background-size: cover;
+}
+
+.poverty2 {
+  background-image: url(asset/homelessness-statistics.jpg);
+  background-size: cover;
+}
+
+.graph {
+  width: 498px;
+  length: 198px;
+}
+
+.police1 {
+  background-image: url(asset/3000.webp);
+  background-size: cover;
+}
+
+.biden {
+  width: 580px;
+  length: 67px;
+}
+
+.goodending {
+  background-image: url(asset/26tmag-yakushima-slide-IH41-jumbo.jpeg);
+  background-size: cover;
+  text-align: center;
+}
+
+.end {
+  text-align: center;
+}
+
+.cia22 {
+  background-color: black;
+  background-image: url(asset/screenshot.png);
+  background-size: cover;
+  color: red;
+}
+
+.runhide {
+  font-size: 1.7rem;
+  background-image: url(asset/peephole.jpg);
+  background-size: cover;
+}
+
+.socials {
+  text-align: center;
+  font-size: 2rem;
+  background-image: url(asset/anseladams.jpg);
+}
+
+.badend {
+  text-align: center;
+  background-image: url(asset/fire-flames.gif);
+  background-size: cover;
+}
+
+.seal {
+  width: 200px;
+  length: 200px;
+}
+
+.family {
+  text-align: center;
+  font-size: 2rem;
+  background-image: url(asset/americanfamily.JPEG);
+  background-size: cover;
+}
+
+.doortime {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.doortime {
+  background-image: url(asset/200w.gif);
+  background-size: cover;
+}
