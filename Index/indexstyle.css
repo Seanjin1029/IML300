@@ -1,5 +1,15 @@
 body {
   color: red;
-  background-image: url(img_4385.jpg);
+  font-style: oblique;
+  background-image: url(asset/img_4385.jpg);
   background-size: cover;
+}
+
+a {
+  color: red;
+}
+
+.Thoughts {
+  color: red;
+  text-align: center;
 }
