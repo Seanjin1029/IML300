@@ -1,15 +1,29 @@
 body {
-  color: red;
-  font-style: oblique;
-  background-image: url(asset/img_4385.jpg);
+  color: black;
+  font-family: arial;
+  background-color: white;
   background-size: cover;
 }
 
 a {
-  color: red;
+  color: black;
+}
+
+.name {
+  text-align: center;
 }
 
 .Thoughts {
   color: red;
   text-align: center;
+}
+
+iframe {
+  width: 300px;
+  height: 300px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
 }
