@@ -27,3 +27,21 @@ iframe {
   display: grid;
   grid-template-columns: auto auto auto auto;
 }
+
+.header {
+  font-size: 25px;
+  text-align: right;
+}
+
+.description {
+  text-align: right;
+}
+
+.footer {
+  color: red;
+  text-align: center;
+}
+
+.exercise {
+  font-size: 10px;
+}
